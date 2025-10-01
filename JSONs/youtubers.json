@@ -1,0 +1,95 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mis YouTubers Favoritos</title>
+    <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+    <h1>Sobre M&iacute</h1>
+    <p>Hola, soy Mar&#237;a. Esta es mi p&aacutegina personal.</p>
+    <section id="perfil">
+        <div>
+            <img src="fotos/PerfilMujer.jpg" alt="Foto de Mar&#237;a">
+            <p class="nombre">Nombre: Mar&#237;a Rodr&#237;guez</p>
+            <p>Fecha de Nacimiento: 22/07/1998</p>
+            <p>Biograf&iacutea: Dise&#241;adora gr&#225;fica y amante del arte digital.</p>
+        </div>
+
+
+
+    </section>
+
+    <section id="redes" class="redes2">
+        <div class="divredes">
+            <ul class="redes">
+                <li class="redboton">
+                    <a href="https://instagram.com/" target="_blank" class="redlink">
+                        <img class="iconored" src="fotos/Redes/Instagram.png" alt="Icono de Instagram">
+                    </a>
+                </li>
+                <li class="redboton">
+                    <a href="https://behance.net/" target="_blank" class="redlink">
+                        <img class="iconored" src="fotos/Redes/Behance.png" alt="Icono de Behance">
+                    </a>
+                </li>
+                <li class="redboton">
+                    <a href="https://pinterest.com/" target="_blank" class="redlink">
+                        <img class="iconored" src="fotos/Redes/Pinterest.png" alt="Icono de Pinterest">
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </section>
+
+    <nav class="navegacion">
+        <div class="divnavegacion">
+            <ul class="navmenu">
+                <li>Ver:</li>
+                <li class="navboton">
+                    <a href="index.html" class="navlink active">Mi Informaci&oacuten Basica</a>
+                </li>
+                <li class="navboton">
+                    <a href="pasatiempos.html" class="navlink">Mis Pasatiempos</a>
+                </li>
+                <li class="navboton">
+                    <a class="navlink">> Mis Youtubers Favoritos <</a>
+                </li>
+                <li class="navboton">
+                    <a href="cinegustos.html" class="navlink">Mis Gustos del Cine</a>
+                </li>
+                <li class="navboton">
+                    <a href="mensajes.html" class="navlink">Escr&iacutebeme</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <section id="genealogia">
+        <h2>Mis YouTubers Favoritos</h2>
+        <div class="genealogia-contenedor">
+            <div class="miembro">
+                <img class="imagen" src="fotos/YT/superholly.jpg" alt="Foto de ">
+                <p class="nombre">Superholly</p>
+                <p class="descripcion">Idiomas y cultura</p>
+                <a href="https://youtube.com/@Superholly" target="_blank">Visitar Canal</a>
+            </div>
+            <div class="miembro">
+                <img class="imagen" src="fotos/YT/luisito.jpg" alt="Foto de ">
+                <p class="nombre">Luisito Comunica</p>
+                <p class="descripcion">Viajes y aventuras</p>
+                <a href="https://youtube.com/@LuisitoComunica" target="_blank">Visitar Canal</a>
+            </div>
+            <div class="miembro">
+                <img class="imagen" src="fotos/YT/paulina.jpg" alt="Foto de ">
+                <p class="nombre">Paulina Cocina</p>
+                <p class="descripcion">Recetas y gastronom&#237;a</p>
+                <a href="https://youtube.com/@PaulinaCocina" target="_blank">Visitar Canal</a>
+            </div>
+        </div>
+    </section>
+
+    <script src="assets/script.js"></script>
+</body>
+</html>

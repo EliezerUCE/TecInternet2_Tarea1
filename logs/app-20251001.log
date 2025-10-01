@@ -1,0 +1,16 @@
+2025-10-01 18:58:18.378 -04:00 [INF] Iniciando programa
+2025-10-01 18:58:18.525 -04:00 [INF] Cargando perfiles desde la base de datos
+2025-10-01 18:58:22.146 -04:00 [INF] Programa iniciado correctamente
+2025-10-01 18:58:22.148 -04:00 [INF] Esperando entrada del usuario para seleccionar perfil
+2025-10-01 18:58:45.312 -04:00 [ERR] ID inválido ingresado
+2025-10-01 18:58:59.777 -04:00 [ERR] ID inválido ingresado
+2025-10-01 18:59:08.869 -04:00 [INF] Perfil con ID 2 seleccionado
+2025-10-01 18:59:08.869 -04:00 [INF] Generando páginas HTML
+2025-10-01 18:59:20.515 -04:00 [INF] Páginas HTML generadas exitosamente
+2025-10-01 18:59:20.527 -04:00 [INF] Generando archivos JSON
+2025-10-01 18:59:20.769 -04:00 [INF] Formulario Home cargado.
+2025-10-01 18:59:21.108 -04:00 [INF] Abriendo página en el navegador predeterminado
+2025-10-01 18:59:53.489 -04:00 [INF] Iniciando programa
+2025-10-01 18:59:53.644 -04:00 [INF] Cargando perfiles desde la base de datos
+2025-10-01 18:59:56.562 -04:00 [INF] Programa iniciado correctamente
+2025-10-01 18:59:56.564 -04:00 [INF] Esperando entrada del usuario para seleccionar perfil

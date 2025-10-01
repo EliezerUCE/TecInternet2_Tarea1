@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eliezer\\OneDrive - UCE\\OneDrive - Universidad Central del Este\\Escritorio\\Tecnolog\u00EDas_de_internet_2\\Tarea1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C93635BB-A14A-4AE6-BF86-C364DA2BC6A0}|Tarea1.csproj|c:\\users\\eliezer\\onedrive - uce\\onedrive - universidad central del este\\escritorio\\tecnolog\u00EDas_de_internet_2\\tarea1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C93635BB-A14A-4AE6-BF86-C364DA2BC6A0}|Tarea1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93635BB-A14A-4AE6-BF86-C364DA2BC6A0}|Tarea1.csproj|c:\\users\\eliezer\\onedrive - uce\\onedrive - universidad central del este\\escritorio\\tecnolog\u00EDas_de_internet_2\\tarea1\\tarea1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C93635BB-A14A-4AE6-BF86-C364DA2BC6A0}|Tarea1.csproj|solutionrelative:tarea1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93635BB-A14A-4AE6-BF86-C364DA2BC6A0}|Tarea1.csproj|c:\\users\\eliezer\\onedrive - uce\\onedrive - universidad central del este\\escritorio\\tecnolog\u00EDas_de_internet_2\\tarea1\\data\\paginapersonalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C93635BB-A14A-4AE6-BF86-C364DA2BC6A0}|Tarea1.csproj|solutionrelative:data\\paginapersonalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93635BB-A14A-4AE6-BF86-C364DA2BC6A0}|Tarea1.csproj|c:\\users\\eliezer\\onedrive - uce\\onedrive - universidad central del este\\escritorio\\tecnolog\u00EDas_de_internet_2\\tarea1\\templates\\mensajes.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C93635BB-A14A-4AE6-BF86-C364DA2BC6A0}|Tarea1.csproj|solutionrelative:templates\\mensajes.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93635BB-A14A-4AE6-BF86-C364DA2BC6A0}|Tarea1.csproj|c:\\users\\eliezer\\onedrive - uce\\onedrive - universidad central del este\\escritorio\\tecnolog\u00EDas_de_internet_2\\tarea1\\website\\assets\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C93635BB-A14A-4AE6-BF86-C364DA2BC6A0}|Tarea1.csproj|solutionrelative:website\\assets\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93635BB-A14A-4AE6-BF86-C364DA2BC6A0}|Tarea1.csproj|c:\\users\\eliezer\\onedrive - uce\\onedrive - universidad central del este\\escritorio\\tecnolog\u00EDas_de_internet_2\\tarea1\\templates\\youtubers.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C93635BB-A14A-4AE6-BF86-C364DA2BC6A0}|Tarea1.csproj|solutionrelative:templates\\youtubers.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93635BB-A14A-4AE6-BF86-C364DA2BC6A0}|Tarea1.csproj|c:\\users\\eliezer\\onedrive - uce\\onedrive - universidad central del este\\escritorio\\tecnolog\u00EDas_de_internet_2\\tarea1\\website\\assets\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C93635BB-A14A-4AE6-BF86-C364DA2BC6A0}|Tarea1.csproj|solutionrelative:website\\assets\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93635BB-A14A-4AE6-BF86-C364DA2BC6A0}|Tarea1.csproj|c:\\users\\eliezer\\onedrive - uce\\onedrive - universidad central del este\\escritorio\\tecnolog\u00EDas_de_internet_2\\tarea1\\templates\\pasatiempos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C93635BB-A14A-4AE6-BF86-C364DA2BC6A0}|Tarea1.csproj|solutionrelative:templates\\pasatiempos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93635BB-A14A-4AE6-BF86-C364DA2BC6A0}|Tarea1.csproj|c:\\users\\eliezer\\onedrive - uce\\onedrive - universidad central del este\\escritorio\\tecnolog\u00EDas_de_internet_2\\tarea1\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C93635BB-A14A-4AE6-BF86-C364DA2BC6A0}|Tarea1.csproj|solutionrelative:templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93635BB-A14A-4AE6-BF86-C364DA2BC6A0}|Tarea1.csproj|c:\\users\\eliezer\\onedrive - uce\\onedrive - universidad central del este\\escritorio\\tecnolog\u00EDas_de_internet_2\\tarea1\\templates\\cinegustos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C93635BB-A14A-4AE6-BF86-C364DA2BC6A0}|Tarea1.csproj|solutionrelative:templates\\cinegustos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tarea1",
+              "DocumentMoniker": "C:\\Users\\Eliezer\\OneDrive - UCE\\OneDrive - Universidad Central del Este\\Escritorio\\Tecnolog\u00EDas_de_internet_2\\Tarea1\\Tarea1.csproj",
+              "RelativeDocumentMoniker": "Tarea1.csproj",
+              "ToolTip": "C:\\Users\\Eliezer\\OneDrive - UCE\\OneDrive - Universidad Central del Este\\Escritorio\\Tecnolog\u00EDas_de_internet_2\\Tarea1\\Tarea1.csproj",
+              "RelativeToolTip": "Tarea1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-01T22:57:56.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaginaPersonalContext.cs",
+              "DocumentMoniker": "C:\\Users\\Eliezer\\OneDrive - UCE\\OneDrive - Universidad Central del Este\\Escritorio\\Tecnolog\u00EDas_de_internet_2\\Tarea1\\Data\\PaginaPersonalContext.cs",
+              "RelativeDocumentMoniker": "Data\\PaginaPersonalContext.cs",
+              "ToolTip": "C:\\Users\\Eliezer\\OneDrive - UCE\\OneDrive - Universidad Central del Este\\Escritorio\\Tecnolog\u00EDas_de_internet_2\\Tarea1\\Data\\PaginaPersonalContext.cs",
+              "RelativeToolTip": "Data\\PaginaPersonalContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA7wCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T22:31:55.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eliezer\\OneDrive - UCE\\OneDrive - Universidad Central del Este\\Escritorio\\Tecnolog\u00EDas_de_internet_2\\Tarea1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Eliezer\\OneDrive - UCE\\OneDrive - Universidad Central del Este\\Escritorio\\Tecnolog\u00EDas_de_internet_2\\Tarea1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T22:12:54.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mensajes.html",
+              "DocumentMoniker": "C:\\Users\\Eliezer\\OneDrive - UCE\\OneDrive - Universidad Central del Este\\Escritorio\\Tecnolog\u00EDas_de_internet_2\\Tarea1\\templates\\mensajes.html",
+              "RelativeDocumentMoniker": "templates\\mensajes.html",
+              "ToolTip": "C:\\Users\\Eliezer\\OneDrive - UCE\\OneDrive - Universidad Central del Este\\Escritorio\\Tecnolog\u00EDas_de_internet_2\\Tarea1\\templates\\mensajes.html",
+              "RelativeToolTip": "templates\\mensajes.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-01T11:18:46.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\Eliezer\\OneDrive - UCE\\OneDrive - Universidad Central del Este\\Escritorio\\Tecnolog\u00EDas_de_internet_2\\Tarea1\\website\\assets\\styles.css",
+              "RelativeDocumentMoniker": "website\\assets\\styles.css",
+              "ToolTip": "C:\\Users\\Eliezer\\OneDrive - UCE\\OneDrive - Universidad Central del Este\\Escritorio\\Tecnolog\u00EDas_de_internet_2\\Tarea1\\website\\assets\\styles.css",
+              "RelativeToolTip": "website\\assets\\styles.css",
+              "ViewState": "AgIAANUAAAAAAAAAAAAQwP8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-25T13:23:36.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "youtubers.html",
+              "DocumentMoniker": "C:\\Users\\Eliezer\\OneDrive - UCE\\OneDrive - Universidad Central del Este\\Escritorio\\Tecnolog\u00EDas_de_internet_2\\Tarea1\\templates\\youtubers.html",
+              "RelativeDocumentMoniker": "templates\\youtubers.html",
+              "ToolTip": "C:\\Users\\Eliezer\\OneDrive - UCE\\OneDrive - Universidad Central del Este\\Escritorio\\Tecnolog\u00EDas_de_internet_2\\Tarea1\\templates\\youtubers.html",
+              "RelativeToolTip": "templates\\youtubers.html",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-25T17:43:46.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\Eliezer\\OneDrive - UCE\\OneDrive - Universidad Central del Este\\Escritorio\\Tecnolog\u00EDas_de_internet_2\\Tarea1\\website\\assets\\script.js",
+              "RelativeDocumentMoniker": "website\\assets\\script.js",
+              "ToolTip": "C:\\Users\\Eliezer\\OneDrive - UCE\\OneDrive - Universidad Central del Este\\Escritorio\\Tecnolog\u00EDas_de_internet_2\\Tarea1\\website\\assets\\script.js",
+              "RelativeToolTip": "website\\assets\\script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-25T13:27:27.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Eliezer\\OneDrive - UCE\\OneDrive - Universidad Central del Este\\Escritorio\\Tecnolog\u00EDas_de_internet_2\\Tarea1\\templates\\index.html",
+              "RelativeDocumentMoniker": "templates\\index.html",
+              "ToolTip": "C:\\Users\\Eliezer\\OneDrive - UCE\\OneDrive - Universidad Central del Este\\Escritorio\\Tecnolog\u00EDas_de_internet_2\\Tarea1\\templates\\index.html",
+              "RelativeToolTip": "templates\\index.html",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-24T22:06:22.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "cinegustos.html",
+              "DocumentMoniker": "C:\\Users\\Eliezer\\OneDrive - UCE\\OneDrive - Universidad Central del Este\\Escritorio\\Tecnolog\u00EDas_de_internet_2\\Tarea1\\templates\\cinegustos.html",
+              "RelativeDocumentMoniker": "templates\\cinegustos.html",
+              "ToolTip": "C:\\Users\\Eliezer\\OneDrive - UCE\\OneDrive - Universidad Central del Este\\Escritorio\\Tecnolog\u00EDas_de_internet_2\\Tarea1\\templates\\cinegustos.html",
+              "RelativeToolTip": "templates\\cinegustos.html",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-25T18:58:29.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "pasatiempos.html",
+              "DocumentMoniker": "C:\\Users\\Eliezer\\OneDrive - UCE\\OneDrive - Universidad Central del Este\\Escritorio\\Tecnolog\u00EDas_de_internet_2\\Tarea1\\templates\\pasatiempos.html",
+              "RelativeDocumentMoniker": "templates\\pasatiempos.html",
+              "ToolTip": "C:\\Users\\Eliezer\\OneDrive - UCE\\OneDrive - Universidad Central del Este\\Escritorio\\Tecnolog\u00EDas_de_internet_2\\Tarea1\\templates\\pasatiempos.html",
+              "RelativeToolTip": "templates\\pasatiempos.html",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-25T17:24:12.432Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

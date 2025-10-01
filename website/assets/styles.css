@@ -1,0 +1,256 @@
+﻿
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+section {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+#perfil img {
+    width: 150px;
+    height: 150px;
+    border: 3px solid #f0f0f0;
+    object-fit: cover;
+}
+
+.pasatiempos-lista, .youtubers-lista, .animeseries-lista {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.pasatiempo, .youtuber, .serie {
+    margin: 10px;
+    text-align: center;
+    padding: 15px;
+    border: 1px solid #eee;
+    border-radius: 8px;
+    flex: 1 1 200px;
+}
+
+.pasatiempo img, .youtuber img, .serie img {
+    width: 80px;
+    height: 80px;
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+.timeline {
+    border-left: 2px solid #333;
+    padding-left: 20px;
+    position: relative;
+}
+
+.evento {
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.evento::before {
+    content: '';
+    position: absolute;
+    left: -9px;
+    top: 0;
+    width: 16px;
+    height: 16px;
+    background-color: #333;
+    border-radius: 50%;
+}
+
+.evento h3 {
+    margin: 0;
+}
+
+.evento span {
+    font-size: 0.9em;
+    color: #666;
+}
+
+#genealogia {
+    padding: 20px;
+}
+
+#genealogia h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 2em;
+    color: #333;
+}
+
+.genealogia-contenedor {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+    align-items: stretch;
+}
+
+.miembro {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #eee;
+    border-radius: 12px;
+    flex: 1 1 280px;
+    max-width: 350px;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease;
+}
+
+.miembro:hover, .miembroPasatiemposImgs:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+}
+
+.imagen{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 15px;
+    border: 3px solid #f0f0f0;
+}
+
+.nombre {
+    font-weight: bold;
+    font-size: 1.1em;
+    color: #333;
+    margin-bottom: 8px;
+}
+
+.descripcion {
+    color: #666;
+    font-size: 0.9em;
+    line-height: 1.4;
+    margin: 0;
+}
+
+
+
+
+.navegacion {
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    text-align: center;
+    align-content: center;
+}
+
+.divnavegacion {
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.navmenu {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+    text-align: center;
+    align-content: center;
+}
+
+.navlink {
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+    cursor: pointer;
+    white-space: nowrap;
+    -moz-text-decoration-color: inherit;
+    text-decoration-color: inherit;
+}
+
+.navlink:hover {
+    color: red;
+}
+
+
+
+.redes2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.divredes {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin: 0 auto;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+
+}
+
+.redes {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.redlink {
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+    cursor: pointer;
+    white-space: nowrap;
+    -moz-text-decoration-color: inherit;
+    text-decoration-color: inherit;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.iconored {
+    width: 55px;
+    height:55px;
+    margin-right: 10px;
+    border-radius: 50%;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.iconored:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+}
+
+.galeria {
+    width: 380px;
+    height: 380px;
+    object-fit: cover;
+    margin-bottom: 15px;
+    border: 3px solid #f0f0f0;
+}
+
+.miembroPasatiemposImgs {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #eee;
+    border-radius: 12px;
+    flex: 1 1 280px;
+    max-width: 400px;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease;
+}
+

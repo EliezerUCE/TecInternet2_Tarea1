@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mis Gustos del Cine</title>
+    <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+    <h1>Sobre M&iacute</h1>
+    {{#each perfiles}}
+    <p>Hola, soy {{nombre}}. Esta es mi p&aacutegina personal.</p>
+    {{/each}}
+    <section id="perfil">
+        <div>
+            {{#each perfiles}}
+            <img src="{{foto}}" alt="Foto de {{nombre}}">
+            <p class="nombre">Nombre: {{nombre}} {{apellido}}</p>
+            <p>Fecha de Nacimiento: {{fechaNacimiento}}</p>
+            <p>Biograf&iacutea: {{biografia}}</p>
+            {{/each}}
+        </div>
+
+
+
+    </section>
+
+    <section id="redes" class="redes2">
+        <div class="divredes">
+            <ul class="redes">
+                {{#each redesSociales}}
+                <li class="redboton">
+                    <a href="{{url}}" target="_blank" class="redlink">
+                        <img class="iconored" src="{{icono}}" alt="Icono de {{red}}">
+                    </a>
+                </li>
+                {{/each}}
+            </ul>
+        </div>
+    </section>
+
+    <nav class="navegacion">
+        <div class="divnavegacion">
+            <ul class="navmenu">
+                <li>Ver:</li>
+                <li class="navboton">
+                    <a href="index.html" class="navlink active">Mi Informaci&oacuten Basica</a>
+                </li>
+                <li class="navboton">
+                    <a href="pasatiempos.html" class="navlink">Mis Pasatiempos</a>
+                </li>
+                <li class="navboton">
+                    <a href="youtubers.html" class="navlink">Mis Youtubers Favoritos</a>
+                </li>
+                <li class="navboton">
+                    <a class="navlink">> Mis Gustos del Cine <</a>
+                </li>
+                <li class="navboton">
+                    <a href="mensajes.html" class="navlink">Escr&iacutebeme</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <section id="genealogia">
+        <h2>Mis Gustos del Cine</h2>
+        <div class="genealogia-contenedor">
+            {{#each animeSeries}}
+            <div class="miembro">
+                <img class="imagen" src="{{caratula}}" alt="Foto de {{nombre}}">
+                <p class="nombre">{{titulo}}</p>
+                <p class="descripcion">{{descripcion}}</p>
+
+                <iframe width="350" height="191"
+                        src="https://www.youtube.com/embed/{{traileryouTube}}"
+                        title="YouTube video player" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+                </iframe>
+            </div>
+            {{/each}}
+        </div>
+    </section>
+
+    <script src="assets/script.js"></script>
+</body>
+</html>
